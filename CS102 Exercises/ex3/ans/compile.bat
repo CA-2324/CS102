@@ -1,0 +1,1 @@
+javac -d generated -cp libraries/*;source source/quiz/test/Test.java

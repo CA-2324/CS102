@@ -1,0 +1,1 @@
+java -cp libraries/*;generated quiz.test.Test
